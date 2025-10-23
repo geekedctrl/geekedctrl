@@ -1,5 +1,6 @@
-## Portfolio Website
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=website&logoColor=white)](https://geekedctrl.github.io/CV/)
+## 🌐 Portfolio Website
+
+[![Website](https://img.shields.io/badge/Visit%20My%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://geekedctrl.github.io/CV/)
 
 
 ## 🌐 Socials:
